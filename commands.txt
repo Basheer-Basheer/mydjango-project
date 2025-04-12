@@ -21,4 +21,4 @@ python manage.py startapp main
 
 i can make templates folders inside apps without put anything inside settings
 
-django-tutorial123456 this is domain
+mydjango-project123456 this is domain
